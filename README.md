@@ -21,4 +21,8 @@ Image 2 to show : ![hwimage1]()
 
 # Link to GitHub Repository:
 
+https://github.com/BKay1/weather-dashboard
+
 # Link to Deployed Application:
+
+https://bkay1.github.io/weather-dashboard/

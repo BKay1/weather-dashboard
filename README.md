@@ -15,9 +15,9 @@ Main Actions:
 
 Please note screen shots of working web app:
 
-Image 1 to show deployed application URL: ![hwimage1]()
+Image 1 to show deployed application URL: ![]()
 
-Image 2 to show : ![hwimage1]()
+Image 2 to show : ![p]()
 
 # Link to GitHub Repository:
 

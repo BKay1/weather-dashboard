@@ -12,3 +12,9 @@ body {
 input {
   width: 75%;
 }
+
+.card {
+  background-color: rgb(38, 86, 230);
+  margin: 2rem;
+  color: #ffffff;
+}
